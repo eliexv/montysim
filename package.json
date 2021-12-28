@@ -1,0 +1,15 @@
+{
+	"name": "monty-hall-sim-nodejs",
+	"version": "0.0.1",
+	"description": "A simulator that runs the Monty Hall problem a set number of times for a set number of doors.",
+	"main": "cli.js",
+	"scripts": {
+		"test": "exit 0"
+	},
+	"author": "Elie",
+	"license": "ISC",
+	"dependencies": {
+		"colors": "^1.4.0"
+	},
+	"bin": "./cli.js"
+}
