@@ -11,6 +11,8 @@
 	"dependencies": {
 		"colors": "^1.4.0"
 	},
-	"bin": "./cli.js",
+	"bin": {
+		"montysim": "./cli.js"
+	},
 	"repository": "github:eliexv/montysim"
 }
